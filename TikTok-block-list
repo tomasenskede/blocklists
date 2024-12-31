@@ -1,0 +1,52 @@
+# Title: Tiktok Blocklist
+#
+# Description: This blocklist has been meticulously curated from trusted sources 
+# and enhanced with unique contributions to ensure comprehensive coverage of 
+# Snapchat-related domains. The aim is to effectively and securely block access 
+# to Snapchat services.
+#
+# Date: December 31, 2024
+# This list was generated without using a standard unified hosts file.
+# Custom extensions applied for this list include: fakenews, gambling, and social.
+# Total number of unique domains: 14,103
+#
+# Project homepage: https://github.com/tomasenskede/blocklists
+#
+# ===============================================================
+
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 tiktok.com
+0.0.0.0 tiktok.org
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokv.com
+0.0.0.0 muscdn.com
+0.0.0.0 musical.ly
+0.0.0.0 musically.ly
+0.0.0.0 v16-tiktokcdn-com.akamaized.net
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 v16-tiktokcdn-com.akamaized.net
+0.0.0.0 mon.byteoversea.com
+0.0.0.0 mon-va.byteoversea.com
+0.0.0.0 abtest-va-tiktok.byteoversea.com
+0.0.0.0 p16.hypstarcdn.com
+0.0.0.0 sf-tb-sg.ibytedtos.com
+0.0.0.0 xlog-va.byteoversea.com
+0.0.0.0 dm-maliva16.byteoversea.com
+0.0.0.0 dm.bytedance.com
+0.0.0.0 sgali3.l.byteoversea.net
+0.0.0.0 tiktokcdn-com.akamaized.net
+0.0.0.0 ibytedtos.com
+0.0.0.0 app.musemuse.cn
+0.0.0.0 share.musemuse.cn
+
+# ===============================================================
+
+(^|\.)muscdn\.com$
+
+(^|\.)musical\.ly$
+
+(^|\.)tiktok\.com$
+
+(^|\.)tiktok\.org$
+
+(^|\.)tiktokcdn\.com$
