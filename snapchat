@@ -15,13 +15,13 @@
 # ===============================================================
 
 # [snapchat.com]
-0.0.0.0 ads.snapchat.com
-0.0.0.0 adsapi.snapchat.com
-0.0.0.0 tr.snapchat.com
-0.0.0.0 tr6.snapchat.com
+ads.snapchat.com
+adsapi.snapchat.com
+tr.snapchat.com
+tr6.snapchat.com
 
 # [snapdeal.com]
 
 # [snapmobile.asia]
-0.0.0.0 snapmobile.asia
-0.0.0.0 snap.snapmobile.asia
+snapmobile.asia
+snap.snapmobile.asia
