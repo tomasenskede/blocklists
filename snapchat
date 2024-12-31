@@ -1,0 +1,27 @@
+# Title: Snapchat Blocklist
+#
+# Description: This blocklist has been meticulously curated from trusted sources 
+# and enhanced with unique contributions to ensure comprehensive coverage of 
+# Snapchat-related domains. The aim is to effectively and securely block access 
+# to Snapchat services.
+#
+# Date: December 31, 2024
+# This list was generated without using a standard unified hosts file.
+# Custom extensions applied for this list include: fakenews, gambling, and social.
+# Total number of unique domains: 14,103
+#
+# Project homepage: https://github.com/tomasenskede/blocklists
+#
+# ===============================================================
+
+# [snapchat.com]
+0.0.0.0 ads.snapchat.com
+0.0.0.0 adsapi.snapchat.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 tr6.snapchat.com
+
+# [snapdeal.com]
+
+# [snapmobile.asia]
+0.0.0.0 snapmobile.asia
+0.0.0.0 snap.snapmobile.asia
